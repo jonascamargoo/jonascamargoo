@@ -15,11 +15,10 @@
 **Estudando:**
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Godot](https://img.shields.io/badge/Godot%20Engine-333333?style=for-the-badge&logo=godotengine&logoColor=0077CC)
-&nbsp;
+
 
 **Workstation Tools:**
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Trello](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=%230079D3)&nbsp;
