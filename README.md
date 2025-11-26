@@ -1,24 +1,29 @@
-## Engenheiro de computação em formação
+## Engenheiro de Computação | Data Science & ML applied to Cybersecurity
 
-## Stack principal:
-
-![Spring](https://img.shields.io/badge/Spring-brightgreen?style=for-the-badge&logo=Spring&logoColor=white)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker&logoColor=0db7ed)
+Estudante de Engenharia de Computação focado em criar soluções inteligentes. Atualmente, meus projetos se concentram em **Machine Learning**, arquiteturas **RAG** (Retrieval-Augmented Generation) e pipelines de **MLOps**.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-**Estudando:**
+### ⚙️ MLOps & Backend:
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
+### 🤖 Generative AI & Orchestration:
 
-**Workstation Tools:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-cc5c29?style=for-the-badge&logoColor=white)&nbsp;
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Trello](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=%230079D3)&nbsp;
+### 📊 Data App & Viz:
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 🤖 RAG & LLMs:
+
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yellow?style=for-the-badge)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)&nbsp;
